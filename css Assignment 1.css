@@ -1,0 +1,13 @@
+h1{
+border: 1px solid black;
+border-width: 20px 30px 30px 20px;
+background-color: gold;
+border-color: blueviolet blue greenyellow orangered;
+text-align: center;
+}
+td{
+visibility: collapse;
+
+}
+
+
