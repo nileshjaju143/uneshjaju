@@ -1,0 +1,21 @@
+h1{
+background-color: rgb(251, 255, 0);
+color: blueviolet;
+}
+h1~h2{
+color: rgb(221, 214, 228);
+background-color: rgb(114, 13, 128);
+
+
+}
+
+h2~a{
+    color: rgb(236, 14, 14);
+    background-color: rgb(174, 255, 127);
+}
+
+
+
+
+
+
